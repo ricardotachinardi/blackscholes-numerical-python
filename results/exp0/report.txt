@@ -1,0 +1,5 @@
+---- using two for loops vs vectorizing one of them for building the u grid ----
+Initial Params: 
+K: 1, sigma: 0.01, T: 1, r: 0.01, N: 10000, L: 10
+Execution time using two for loops: 1.5291887
+Execution time vectorizing one of the loops: 0.012564200000000358

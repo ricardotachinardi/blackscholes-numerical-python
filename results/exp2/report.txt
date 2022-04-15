@@ -1,0 +1,32 @@
+---- BRL/USD analysis ----
+Initial Params: 
+K: 5.7, sigma: 0.1692, T: 0.25, r: 0.1075, N: 10000, L: 10, M: 3580
+---- BRL/USD analysis - until expiration ----
+S0 = 5.6376
+numerical V0 = 0.23639993107756752
+analytical V0 = 0.23639922616182707
+The spot price on March/22 was 5.1604718519...
+Which means that the return on March/22 was -0.23639993107756752 per unit of option...
+This is equivalent to a -100.0% return...
+---- BRL/USD analysis - Jan/22, before expiration ----
+S(t):4.00000 V(t):0.00001 Profit:-0.99998
+S(t):4.15789 V(t):0.00003 Profit:-0.99986
+S(t):4.31579 V(t):0.00018 Profit:-0.99926
+S(t):4.47368 V(t):0.00073 Profit:-0.99691
+S(t):4.63158 V(t):0.00251 Profit:-0.98939
+S(t):4.78947 V(t):0.00723 Profit:-0.96941
+S(t):4.94737 V(t):0.01787 Profit:-0.92439
+S(t):5.10526 V(t):0.03859 Profit:-0.83676
+S(t):5.26316 V(t):0.07401 Profit:-0.68691
+S(t):5.42105 V(t):0.12814 Profit:-0.45794
+S(t):5.57895 V(t):0.20316 Profit:-0.14062
+S(t):5.73684 V(t):0.29895 Profit:0.26461
+S(t):5.89474 V(t):0.41328 Profit:0.74821
+S(t):6.05263 V(t):0.54254 Profit:1.29499
+S(t):6.21053 V(t):0.68280 Profit:1.88832
+S(t):6.36842 V(t):0.83049 Profit:2.51307
+S(t):6.52632 V(t):0.98283 Profit:3.15750
+S(t):6.68421 V(t):1.13787 Profit:3.81334
+S(t):6.84211 V(t):1.29438 Profit:4.47536
+S(t):7.00000 V(t):1.45163 Profit:5.14057
+generating plots...
