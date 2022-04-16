@@ -1,4 +1,3 @@
-from pickle import NONE
 from utils import closest_point_index, closest_2_points_index
 import numpy as np
 
